@@ -1,147 +1,107 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+<h1 align="center">Hi, I'm Rayudu D 👋</h1>
 
-I'm **Rayudu D (Changal Rayudu D)**, an innovative and results-driven **Frontend Application Developer** with **6+ years** of hands-on experience in building scalable, high-performing web and mobile applications.
+<p align="center">
+  <b>Frontend & Mobile Application Developer</b> · 6+ years building scalable web and mobile products<br/>
+  Next.js · React · React Native · TypeScript
+</p>
 
-## 🚀 About Me
-
-I specialize in full-stack frontend development with a strong focus on:
-- **Web Development**: Next.js, React JS, TypeScript, Redux
-- **Mobile Development**: React Native, Dart
-- **E-Commerce & Enterprise Solutions**: Large-scale platform migrations and feature implementation
-- **Team Leadership**: Leading cross-functional teams to deliver seamless user experiences
-
-**Core Expertise:**
-- Frontend frameworks and modern JavaScript/TypeScript development
-- State management (Redux, React Context)
-- Mobile app development (React Native, Dart)
-- Performance optimization (SSR, SSG, code splitting)
-- UI/UX implementation (Material UI, ANT Design, NativeBase)
-- Firebase integration (Authentication, Cloud Messaging, Real-time features)
-- API integration and RESTful services
-- Agile development and cross-team collaboration
-
-## 💼 Professional Experience
-
-### Travash Software Solutions Pvt Ltd, Hyderabad (Feb 2017 – Present)
-
-#### **Project #1: Indispare - E-Commerce Platform Migration** (Jul 2023 – Present)
-**Role:** Frontend Developer | **Team:** 3 developers | **Technologies:** Next.js, TypeScript, React JS, Redux, ANT Design
-
-**Highlights:**
-- Led migration of **40+ page** legacy e-commerce application to Next.js, significantly improving performance and user experience
-- Implemented server-side rendering (SSR) and static site generation (SSG) for enhanced page load times and SEO
-- Integrated RESTful APIs using Axios for seamless frontend-backend communication
-- Designed modular, reusable components using ANT Design ensuring consistent UI/UX
-- Maintained high code quality using SonarLint for static code analysis
-- Collaborated with backend developers and QA engineers to meet tight deadlines
-
-#### **Project #2: Indispare Mobile App - E-Commerce** (Jul 2023 – Present)
-**Role:** Team Lead | **Team:** 4 developers | **Technologies:** React Native, Redux, NativeBase, Firebase
-
-**Highlights:**
-- Led end-to-end development lifecycle for a Pan-India industrial e-commerce mobile application
-- Architected scalable React Native app with optimal performance across Android and iOS
-- Implemented Firebase Authentication for secure login and Firebase Cloud Messaging for real-time notifications
-- Developed robust product catalog with advanced filtering and search capabilities for industrial spare parts
-- Conducted code reviews, mentored developers, and maintained industry best practices
-- Delivered seamless checkout and order tracking functionality, improving user satisfaction
-- Acted as primary stakeholder contact, providing regular project updates and progress reports
-
-#### **Project #3: Clinical Trial Management System (CTMS)** (Jan 2022 – Jun 2023)
-**Role:** Frontend Developer | **Team:** 2 developers | **Technologies:** React JS, Redux, Material UI
-
-**Highlights:**
-- Reengineered frontend architecture to enhance performance, maintainability, and scalability
-- Developed and optimized **100+ dynamic UI pages** with full responsiveness and Material Design adherence
-- Integrated RESTful APIs using Axios for streamlined data flow
-- Collaborated with UX/UI teams to implement pixel-perfect, user-friendly components
-- Maintained high-quality code standards using SonarLint
-- Conducted thorough testing and debugging across multiple browsers
-
-#### **Project #4: Civil Construction Management App (CCM)** (Mar 2020 – Dec 2021)
-**Role:** Team Lead | **Team:** 4 developers | **Technologies:** React Native, Redux, Material UI, Firebase
-
-**Highlights:**
-- Led team of four developers in end-to-end mobile app development
-- Translated Figma designs into dynamic React Native components with pixel-perfect UI
-- Architected state management using Redux for efficient app-wide data handling
-- Integrated Firebase for real-time push notifications and task updates
-- Conducted code reviews, provided mentorship, and fostered best practices
-- Optimized app performance across multiple devices and platforms
-
-#### **Project #5: Darpan - Telangana State Police AI App** (Dec 2018 – Feb 2020)
-**Role:** Mobile Application Developer | **Team:** 3 developers | **Technologies:** React Native, Redux, Material UI, Firebase
-
-**Highlights:**
-- Developed AI-powered mobile application for identifying missing persons using facial recognition
-- Designed intuitive user interface using Adobe XD, tailored for law enforcement officers
-- Implemented Redux for effective state management and smooth component interactions
-- Configured Firebase for real-time push notifications and case progress updates
-- Ensured application security and privacy compliance for sensitive law enforcement data
-- Optimized image processing for faster searches and efficient functionality
-
-#### **Project #6: DineDesk - Restaurant Management Platform** (Feb 2017 – Dec 2018)
-**Role:** Team Member & Developer | **Team:** 2 developers | **Technologies:** React Native, Redux, NativeBase, Realm
-
-**Highlights:**
-- Developed intuitive mobile interfaces for reservations, waitlists, and table management
-- Implemented Redux for efficient state management across multiple components
-- Integrated Realm for offline storage and synchronization
-- Added analytics and reporting capabilities for restaurant owners
-- Optimized database queries for improved app performance
-
-## 🛠️ Tech Stack
-
-**Languages:** HTML5, CSS3, JavaScript, TypeScript
-
-**Frontend Frameworks & Libraries:** 
-- Next.js, React JS, React Native
-- Redux, React Context
-- Material UI, ANT Design, NativeBase
-
-**Tools & Platforms:**
-- Visual Studio, ATOM, Sublime
-- Firebase (Authentication, Cloud Messaging, Realtime Database)
-- Figma, Adobe XD
-- Git & GitHub
-- SonarLint (Code Quality)
-
-**Operating Systems:** Windows (7/8/10), macOS
-
-## 📚 Key Projects & Repositories
-
-- **Indispare E-Commerce** - Large-scale platform migration to Next.js
-- **Indispare Mobile App** - React Native e-commerce solution
-- **CTMS Platform** - 100+ page clinical trial management system
-- **CCM Mobile App** - Construction management solution
-- **Darpan AI App** - Missing persons facial recognition system
-- **DineDesk** - Restaurant management platform
-
-## 🎓 Education
-
-**Master of Computer Applications (MCA)**
-Jawaharlal Nehru Technological University (JNTU), Ananthapuram
-
-## 📊 GitHub Stats & Highlights
-
-- 💻 **6+ years** of professional development experience
-- 🔧 Expert in full-stack frontend development with modern tech stacks
-- 🚀 Led multiple cross-functional teams to deliver high-quality applications
-- 📈 Consistently delivering scalable, maintainable, and high-performance solutions
-- 🏆 Proven track record of large-scale platform migrations and team leadership
-
-## 🤝 Let's Connect!
-
-I'm always open to collaborating on interesting projects and discussing innovative solutions in frontend and mobile development!
-
-**Contact Information:**
-- 📧 Email: [changalrayudu.d@gmail.com](mailto:changalrayudu.d@gmail.com)
-- 📱 Phone: +91-8790087842
-- 💼 LinkedIn: [linkedin.com/in/changalrayudu-d-794a7a149](https://linkedin.com/in/changalrayudu-d-794a7a149)
-
-Feel free to explore my repositories and reach out if you'd like to collaborate!
+<p align="center">
+  <a href="https://linkedin.com/in/changalrayudu-d-794a7a149"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:changalrayudu.d@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/rayudu12345?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+</p>
 
 ---
 
-**Last Updated:** September 2026
-**Status:** 🟢 Available for exciting opportunities in Frontend & Mobile Development
+## 🚀 About Me
+
+- 🔭 Currently building **Indispare**, a Pan-India industrial e-commerce platform (web + mobile)
+- 🧩 I focus on **performance** (SSR/SSG, code splitting), **reusable component systems**, and **clean state management**
+- 👥 Led cross-functional teams of up to 4 developers as **Team Lead**
+- 🎓 **MCA**, Jawaharlal Nehru Technological University (JNTU), Ananthapuram
+- 💬 Happy to talk about React/Next.js architecture, React Native, and large-scale migrations
+
+## 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## 💼 Experience
+
+**Travash Software Solutions Pvt Ltd, Hyderabad** — Feb 2017 – Present
+
+| Project | Role | Period | Stack |
+| --- | --- | --- | --- |
+| **Indispare** — e-commerce platform migration | Frontend Developer | Jul 2023 – Present | Next.js, TypeScript, Redux, Ant Design |
+| **Indispare Mobile** — industrial e-commerce app | Team Lead | Jul 2023 – Present | React Native, Redux, NativeBase, Firebase |
+| **CTMS** — clinical trial management system | Frontend Developer | Jan 2022 – Jun 2023 | React, Redux, Material UI |
+| **CCM** — civil construction management app | Team Lead | Mar 2020 – Dec 2021 | React Native, Redux, Firebase |
+| **Darpan** — Telangana State Police AI app | Mobile Developer | Dec 2018 – Feb 2020 | React Native, Redux, Firebase |
+| **DineDesk** — restaurant management platform | Developer | Feb 2017 – Dec 2018 | React Native, Redux, Realm |
+
+<details>
+<summary><b>Project highlights</b></summary>
+
+**Indispare — E-Commerce Platform Migration**
+- Led migration of a **40+ page** legacy e-commerce app to Next.js
+- Implemented SSR and SSG for faster page loads and better SEO
+- Built modular, reusable Ant Design components for consistent UI/UX
+- Integrated REST APIs with Axios; enforced code quality with SonarLint
+
+**Indispare Mobile App**
+- Owned the end-to-end lifecycle of a Pan-India industrial e-commerce app
+- Architected a scalable React Native codebase performing well on Android and iOS
+- Firebase Authentication for secure login, Cloud Messaging for real-time notifications
+- Product catalog with advanced filtering/search, plus checkout and order tracking
+- Ran code reviews, mentored developers, and acted as primary stakeholder contact
+
+**CTMS — Clinical Trial Management System**
+- Reengineered the frontend architecture for performance and maintainability
+- Delivered **100+ dynamic, responsive UI pages** following Material Design
+- Partnered with UX/UI to ship pixel-perfect components; cross-browser tested
+
+**CCM — Civil Construction Management App**
+- Led four developers through end-to-end mobile delivery
+- Translated Figma designs into pixel-perfect React Native components
+- Redux-based state architecture; Firebase push notifications for task updates
+
+**Darpan — Telangana State Police AI App**
+- AI-powered missing-persons identification using facial recognition
+- Designed an interface in Adobe XD tailored to law enforcement workflows
+- Optimized image processing for faster searches; handled sensitive-data privacy requirements
+
+**DineDesk — Restaurant Management Platform**
+- Mobile interfaces for reservations, waitlists, and table management
+- Realm-backed offline storage and sync; analytics and reporting for owners
+
+</details>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayudu12345&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayudu12345&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects and discussing frontend and mobile architecture.
+
+- 📧 [changalrayudu.d@gmail.com](mailto:changalrayudu.d@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/changalrayudu-d-794a7a149)
+
+<p align="center">🟢 Open to opportunities in frontend & mobile development</p>
