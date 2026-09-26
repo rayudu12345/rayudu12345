@@ -47,7 +47,7 @@
 
 | Project | Role | Period | Stack |
 | --- | --- | --- | --- |
-| **I4C Dashboard** — banking API status & analytics | Frontend Developer | Dec 2025 – Present | Next.js (App Router), TypeScript, Tailwind CSS, Recharts |
+| **[I4C Dashboard](https://github.com/Travash-Software-Solutions/I4c-dashboardUI)** 🔒 — banking API status & analytics | Frontend Developer | Dec 2025 – Present | Next.js (App Router), TypeScript, Tailwind CSS, Recharts |
 | **Indispare** — e-commerce platform migration | Frontend Developer | Jul 2023 – Present | Next.js, TypeScript, Redux, Ant Design |
 | **Indispare Mobile** — industrial e-commerce app | Team Lead | Jul 2023 – Present | React Native, Redux, NativeBase, Firebase |
 | **CTMS** — clinical trial management system | Frontend Developer | Jan 2022 – Jun 2023 | React, Redux, Material UI |
@@ -58,7 +58,7 @@
 <details>
 <summary><b>Project highlights</b></summary>
 
-**I4C API Status Dashboard**
+**I4C API Status Dashboard** — [Travash-Software-Solutions/I4c-dashboardUI](https://github.com/Travash-Software-Solutions/I4c-dashboardUI) (private)
 - Next.js App Router dashboard for monitoring banking API transactions against the NCRP (National Cyber Crime Reporting Portal) API
 - Request/response monitoring with success, failure, and aggregated-statistics views plus bank-wise reporting
 - Secure auth flow: username/password with OTP verification, protected routes, and session-scoped tokens
@@ -112,5 +112,7 @@ I'm always open to collaborating on interesting projects and discussing frontend
 
 - 📧 [changalrayudu.d@gmail.com](mailto:changalrayudu.d@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/changalrayudu-d-794a7a149)
+
+<p align="center">🔒 = private repository, access on request</p>
 
 <p align="center">🟢 Open to opportunities in frontend & mobile development</p>
