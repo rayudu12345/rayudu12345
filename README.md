@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Indispare**, a Pan-India industrial e-commerce platform (web + mobile)
+- 🔭 Currently building the **I4C API Status Dashboard** (NCRP banking API monitoring) and **Indispare**, a Pan-India industrial e-commerce platform (web + mobile)
 - 🧩 I focus on **performance** (SSR/SSG, code splitting), **reusable component systems**, and **clean state management**
 - 👥 Led cross-functional teams of up to 4 developers as **Team Lead**
 - 🎓 **MCA**, Jawaharlal Nehru Technological University (JNTU), Ananthapuram
@@ -34,6 +34,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -46,6 +47,7 @@
 
 | Project | Role | Period | Stack |
 | --- | --- | --- | --- |
+| **I4C Dashboard** — banking API status & analytics | Frontend Developer | Dec 2025 – Present | Next.js (App Router), TypeScript, Tailwind CSS, Recharts |
 | **Indispare** — e-commerce platform migration | Frontend Developer | Jul 2023 – Present | Next.js, TypeScript, Redux, Ant Design |
 | **Indispare Mobile** — industrial e-commerce app | Team Lead | Jul 2023 – Present | React Native, Redux, NativeBase, Firebase |
 | **CTMS** — clinical trial management system | Frontend Developer | Jan 2022 – Jun 2023 | React, Redux, Material UI |
@@ -55,6 +57,13 @@
 
 <details>
 <summary><b>Project highlights</b></summary>
+
+**I4C API Status Dashboard**
+- Next.js App Router dashboard for monitoring banking API transactions against the NCRP (National Cyber Crime Reporting Portal) API
+- Request/response monitoring with success, failure, and aggregated-statistics views plus bank-wise reporting
+- Secure auth flow: username/password with OTP verification, protected routes, and session-scoped tokens
+- Server-side API proxy routes to handle authentication and CORS for the upstream dashboard API
+- Interactive charts (Recharts/Chart.js) with filterable date, bank, crime, and status dimensions; PDF export via jsPDF
 
 **Indispare — E-Commerce Platform Migration**
 - Led migration of a **40+ page** legacy e-commerce app to Next.js
