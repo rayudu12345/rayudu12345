@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rayudu D 👋</h1>
 
 <p align="center">
-  <b>Frontend & Mobile Application Developer</b> · 6+ years building scalable web and mobile products<br/>
+  <b>Frontend & Mobile Application Developer</b> · 8+ years building scalable web and mobile products<br/>
   Next.js · React · React Native · TypeScript
 </p>
 
